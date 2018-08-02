@@ -1,2 +1,2 @@
-FROM gcr.io/google-containers/hyperkube:v1.9.2
+FROM quay.io/coreos/hyperkube:v1.7.6_coreos.0
 MAINTAINER liukuan <liukuan73@gmail.com>
